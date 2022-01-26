@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Next Gen QR Barát</string>
+    <string name="QR_Tipp">QR Barát szerint tartsa a telefont a tintapacára!</string>
+    <string name="exit_Scan">Kiléptél a scanből</string>
+    <string name="no_data">Scannelj, mielőtt kiíratnád fájlba! (Légyszi?! 🙄)</string>
+    <string name="file_name" translatable="false">scannedCodes.csv</string>
+    <string name="result_key" translatable="false">Last_Result</string>
+    <string name="inactive">Fájlművelet inaktív!</string>
+    <string name="scan">SCAN</string>
+    <string name="write">KIÍR</string>
+</resources>
